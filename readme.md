@@ -1,5 +1,5 @@
 # ImageNet superclass
-The examples of superclass list and source code. The number of superclasses is 558.
+The example of superclass list and source code. The number of superclasses is 558.
 
 ## requirements
 
